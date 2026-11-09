@@ -1,5 +1,9 @@
 # Bubble Bobble Repair Lab
 
+By -
+
+Simran Joshi - PES1UG24CS455
+
 This project is a single-file Bubble Bobble-lite clone using **Pygame**. It introduces students to projectile-then-buoyant motion, trap-and-release enemy state, and combo scoring using a small, readable object-oriented codebase.
 
 ---
